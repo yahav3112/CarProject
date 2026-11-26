@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">פרויקט רכב</string>
+
+    <!-- Login Activity Strings -->
+    <string name="login_title">התחברות למערכת</string>
+    <string name="login_subtitle">הכנס פרטי התחברות כדי להמשיך</string>
+    <string name="hint_username_or_email">שם משתמש או אימייל</string>
+    <string name="hint_password">סיסמא</string>
+    <string name="btn_login">התחבר</string>
+    <string name="no_account_prompt">אין לך חשבון עדיין?</string>
+    <string name="btn_goto_register">הירשם כאן</string>
+    <string name="error_empty_fields">נא למלא את כל השדות</string>
+    <string name="login_success">התחברות הצליחה!</string>
+
+    <!-- Register Activity Strings -->
+    <string name="register_title">הרשמה למערכת</string>
+    <string name="register_subtitle">מלא את הפרטים הבאים ליצירת חשבון</string>
+    <string name="hint_fullname">שם מלא</string>
+    <string name="hint_register_username">שם משתמש</string>
+    <string name="hint_register_email">כתובת אימייל</string>
+    <string name="hint_register_password">סיסמא</string>
+    <string name="hint_phone">מספר טלפון</string>
+    <string name="label_gender">מגדר:</string>
+    <string name="gender_male">זכר</string>
+    <string name="gender_female">נקבה</string>
+    <string name="gender_other">אחר</string>
+    <string name="btn_register">הירשם</string>
+    <string name="has_account_prompt">כבר יש לך חשבון?</string>
+    <string name="btn_goto_login">התחבר כאן</string>
+    <string name="register_success">ההרשמה בוצעה בהצלחה! אנא התחבר</string>
+    <string name="error_register_empty">נא למלא את כל שדות חובה ולבחור מגדר</string>
+
+    <!-- Home Activity Strings -->
+    <string name="home_title">דף הבית</string>
+    <string name="welcome_message">ברוכים הבאים למערכת ניהול הרכבים!</string>
+    <string name="home_description">כאן תוכל לנהל את נסיעותיך, לצפות בפרטי הרכב וליהנות משירותי המערכת.</string>
+    <string name="car_status_title">סטטוס הרכב</string>
+    <string name="car_status_value">תקין ומוכן לנסיעה</string>
+    <string name="btn_logout">התנתק</string>
+</resources>
